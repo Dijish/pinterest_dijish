@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/pinterest_dijish/:/",
-    "/content/pinterest_dijish/configuration:/.helix/config.json",
-    "/content/pinterest_dijish/metadata:/metadata.json"
+    "/content/pinterest_dijish_1/:/",
+    "/content/pinterest_dijish_1/configuration:/.helix/config.json",
+    "/content/pinterest_dijish_1/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/pinterest_dijish/"
+    "/content/pinterest_dijish_1/"
   ]
 }
